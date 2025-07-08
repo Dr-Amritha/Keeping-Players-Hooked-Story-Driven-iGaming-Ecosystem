@@ -1,4 +1,4 @@
-# Keeping Players Hooked Story Driven iGaming Ecosystem
+# Keeping Players Hooked: Story Driven iGaming Ecosystem
 Our new GitHub project explores how to:
 
 ✅ Build modular narrative systems that expand over seasons and quests.
